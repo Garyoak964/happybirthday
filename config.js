@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "Hey",
+      subtitle: "B!",
     },
     {
       type: "countdown",
@@ -77,17 +77,16 @@ const CONFIG = {
       type: "ideas",
       lines: [
         "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
+        "But I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "You are growing old <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
-      type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      type: "Yajnavalkya smriti",
+      text: "Actions that spring from a proper resolve and clear intent are the very source of absolute prosperity and good results.",
+  
     },
     {
       type: "stars",
@@ -100,7 +99,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "May your path be filled with continuous light, wisdom, and incredible opportunities.;)",
     },
     {
       type: "fireworks",
